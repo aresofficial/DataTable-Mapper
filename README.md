@@ -1,2 +1,2 @@
-# datatable_mapper
-DataTable to List&lt;T> Mapper
+# DataTable Mapper
+DataTable to List&lt;T> Mapper (+JsonColumn)
